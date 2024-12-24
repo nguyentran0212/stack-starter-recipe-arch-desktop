@@ -63,8 +63,8 @@ firefox                                                # browser
 kitty                                                  # terminal
 dolphin                                                # kde file manager
 ark                                                    # kde file archiver
-vim                                                    # terminal text editor
-code                                                   # ide text editor
+# vim                                                    # terminal text editor
+# code                                                   # ide text editor
 
 # --------------------------------------------------- // Shell
 eza|zsh                                                # file lister for zsh
@@ -76,4 +76,4 @@ fastfetch                                              # system information fetc
 pokemon-colorscripts-git|zsh                           # display pokemon sprites
 
 # --------------------------------------------------- // HyDE
-hyde-cli-git                                           # cli tool to manage hyde
+# hyde-cli-git                                           # cli tool to manage hyde

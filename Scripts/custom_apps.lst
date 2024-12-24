@@ -1,23 +1,37 @@
 # --------------------------------------------------- // System
 # downgrade                                            # downgrade packages
 # trash-cli-git                                        # cli to manage trash files
-# libinput-gestures                                    # actions touchpad gestures using libinput
-# gestures                                             # gui for libinput-gestures
+libinput-gestures                                    # actions touchpad gestures using libinput
+gestures                                             # gui for libinput-gestures
 
 # --------------------------------------------------- // Dependencies
-xdg-desktop-portal-gtk                                 # xdg desktop portal using gtk
+# xdg-desktop-portal-gtk                                 # xdg desktop portal using gtk
 # emote                                                # emoji picker gtk3
 
+# --------------------------------------------------- // Development  
+git                                                     # git
+python                                                  # Python
+python-pipx                                             # Pipx for running Python packages as CLI apps
+java-runtime-common                                     # Java runtime environment
+nodejs                                                  # Latest nodejs supported by Arch
+yarn                                                    # Package manager for nodejs
+
+# --------------------------------------------------- // AI Utilities  
+aichat                                                  # AIO tool for chatting with LLMs
+
+# --------------------------------------------------- // dotfile managerment
+yadm                                                  # Tool for cloning and managing dotfiles
+  
 # --------------------------------------------------- // Gaming
-steam                                                  # gaming platform
-gamemode                                               # daemon and library for game optimisations
-mangohud                                               # system performance overlay
+# steam                                                  # gaming platform
+# gamemode                                               # daemon and library for game optimisations
+# mangohud                                               # system performance overlay
 # gamescope                                            # micro-compositor for gaming
 
 # --------------------------------------------------- // Music
 cava                                                   # audio visualizer
-spotify                                                # proprietary music streaming service
-spicetify-cli                                          # cli to customize spotify client
+# spotify                                                # proprietary music streaming service
+# spicetify-cli                                          # cli to customize spotify client
 
 # --------------------------------------------------- // Apps
-# neovim                                               # vim based text editor
+neovim                                               # vim based text editor
