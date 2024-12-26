@@ -22,6 +22,11 @@ aichat                                                  # AIO tool for chatting 
 # --------------------------------------------------- // dotfile managerment
 yadm                                                  # Tool for cloning and managing dotfiles
   
+# --------------------------------------------------- // Printing
+cups                                                  # OpenPrinting CUPS daemon package
+cups-pdf                                              # Enable printing into PDF document
+avahi                                                 # avahi daemon for mDNS support for printer discovery
+
 # --------------------------------------------------- // Gaming
 # steam                                                  # gaming platform
 # gamemode                                               # daemon and library for game optimisations
