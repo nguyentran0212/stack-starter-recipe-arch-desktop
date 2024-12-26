@@ -27,6 +27,10 @@ cups                                                  # OpenPrinting CUPS daemon
 cups-pdf                                              # Enable printing into PDF document
 avahi                                                 # avahi daemon for mDNS support for printer discovery
 
+# --------------------------------------------------- // VPN
+wireguard-tools                                       # WireGuard for setting up VPN and connecting to VPN providers
+systemd-resolvconf                                    # Necessary for resolving and connecting to remote VPN providers (Mullvad)
+
 # --------------------------------------------------- // Gaming
 # steam                                                  # gaming platform
 # gamemode                                               # daemon and library for game optimisations
