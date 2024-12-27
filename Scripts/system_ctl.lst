@@ -3,4 +3,4 @@ bluetooth
 sddm
 avahi-daemon
 cups
-systemd-resolve
+systemd-resolved
