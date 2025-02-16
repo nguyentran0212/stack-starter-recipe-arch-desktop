@@ -1,5 +1,5 @@
 ---
-name : "example_recipe"
+name : "arch_hyprland_recipe"
 version : "0.1.1"
 homepage : ""
 repository_url : "git@github.com:nguyentran0212/stack-starter-recipe-arch-desktop.git"
