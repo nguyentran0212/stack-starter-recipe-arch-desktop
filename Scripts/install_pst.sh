@@ -61,7 +61,7 @@ fi
 "${scrDir}/restore_shl.sh"
 
 # flatpak
-if ! pkg_installed flatpak; then
+if pkg_installed flatpak; then
 
     echo -e "\033[0;32m[FLATPAK]\033[0m flatpak application list..."
     awk -F '#' '$1 != "" {print "["++count"]", $1}' "${scrDir}/.extra/custom_flat.lst"

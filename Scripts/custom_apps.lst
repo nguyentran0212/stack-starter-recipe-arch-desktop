@@ -16,8 +16,11 @@ java-runtime-common                                     # Java runtime environme
 nodejs                                                  # Latest nodejs supported by Arch
 yarn                                                    # Package manager for nodejs
 
-# --------------------------------------------------- // AI Utilities  
+# --------------------------------------------------- // CLI tools  
+nnn                                                     # CLI file manager
 aichat                                                  # AIO tool for chatting with LLMs
+
+# --------------------------------------------------- // AI Utilities  
 
 # --------------------------------------------------- // dotfile managerment
 yadm                                                  # Tool for cloning and managing dotfiles
