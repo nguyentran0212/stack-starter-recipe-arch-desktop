@@ -22,6 +22,9 @@ docker-compose                                          # Docker compose interfa
 # --------------------------------------------------- // CLI tools  
 nnn                                                     # CLI file manager
 aichat                                                  # AIO tool for chatting with LLMs
+task                                                    # CLI tool for managing todo list
+tasksh                                                  # Additional CLI tool to support taskwarrior
+timew                                                   # CLI tool for tracking time
 
 # --------------------------------------------------- // AI Utilities  
 
