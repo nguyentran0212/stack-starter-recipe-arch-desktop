@@ -15,6 +15,9 @@ python-pipx                                             # Pipx for running Pytho
 java-runtime-common                                     # Java runtime environment
 nodejs                                                  # Latest nodejs supported by Arch
 yarn                                                    # Package manager for nodejs
+docker                                                  # Docker daemon
+docker-compose                                          # Docker compose interface
+
 
 # --------------------------------------------------- // CLI tools  
 nnn                                                     # CLI file manager
@@ -47,3 +50,6 @@ cava                                                   # audio visualizer
 
 # --------------------------------------------------- // Apps
 neovim                                               # vim based text editor
+
+# --------------------------------------------------- // Misc
+ani-cli                                                   # Anime download and stream in CLI
