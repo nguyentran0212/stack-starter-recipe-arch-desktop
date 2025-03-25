@@ -22,9 +22,10 @@ org.localsend.localsend_app                    # Mimic of airdrop
 # md.obsidian.Obsidian                         # Obsidian
 # org.mozilla.Thunderbird                      # Thunderbird
 # io.github.alainm23.planify                   # Planify
-org.onlyoffice.desktopeditors                # ONLYOFFICE
-org.kde.kalk
-com.github.flxzt.rnote
+org.onlyoffice.desktopeditors                  # ONLYOFFICE
+org.kde.kalk                                   # Calculator app
+com.github.flxzt.rnote                         # Handwritten note app
+org.jabref.jabref                              # Reference manager
 
 # ------------------------------------------- // Image/Graphics
 org.inkscape.Inkscape                          # Inkscape
