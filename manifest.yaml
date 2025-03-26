@@ -3,6 +3,6 @@ name : "arch_hyprland_recipe"
 version : "0.1.1"
 homepage : ""
 repository_url : "git@github.com:nguyentran0212/stack-starter-recipe-arch-desktop.git"
-recipe_type : "configuration" # Possible types are provision and configuration
+recipe_type : "configure" # Possible types are provision and configuration
 recipe_runtime : "bash" # Specify that bash is required to run this recipe
 recipe_entry : "setup_arch_machine.sh" # stack-starter would run bash start.sh 
