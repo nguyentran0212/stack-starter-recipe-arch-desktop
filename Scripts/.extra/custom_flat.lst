@@ -18,6 +18,9 @@ org.localsend.localsend_app                    # Mimic of airdrop
 # dev.vencord.Vesktop                          # Vesktop
 # io.github.spacingbat3.webcord                  # Webcord
 
+# ------------------------------------------- // Development
+
+
 # ------------------------------------------- // Productivity
 # md.obsidian.Obsidian                         # Obsidian
 # org.mozilla.Thunderbird                      # Thunderbird
@@ -26,6 +29,7 @@ org.onlyoffice.desktopeditors                  # ONLYOFFICE
 org.kde.kalk                                   # Calculator app
 com.github.flxzt.rnote                         # Handwritten note app
 org.jabref.jabref                              # Reference manager
+com.jgraph.drawio.desktop                      # DrawIO
 
 # ------------------------------------------- // Image/Graphics
 org.inkscape.Inkscape                          # Inkscape
@@ -54,3 +58,4 @@ com.github.unrud.VideoDownloader               # VideoDownloader
 
 # ------------------------------------------- // Misc
 info.febvre.Komikku                            # Comics download
+org.kde.krename                                # Batch rename utility

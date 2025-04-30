@@ -17,6 +17,7 @@ nodejs                                                  # Latest nodejs supporte
 yarn                                                    # Package manager for nodejs
 docker                                                  # Docker daemon
 docker-compose                                          # Docker compose interface
+podman                                                  # Podman container runner
 
 
 # --------------------------------------------------- // CLI tools  
