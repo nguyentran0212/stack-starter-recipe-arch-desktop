@@ -14,7 +14,8 @@ python                                                  # Python
 python-pipx                                             # Pipx for running Python packages as CLI apps
 java-runtime-common                                     # Java runtime environment
 nodejs                                                  # Latest nodejs supported by Arch
-yarn                                                    # Package manager for nodejs
+npm                                                     # Default package manager for nodejs
+pnpm                                                    # Package manager for nodejs
 docker                                                  # Docker daemon
 docker-compose                                          # Docker compose interface
 podman                                                  # Podman container runner
@@ -40,6 +41,7 @@ avahi                                                 # avahi daemon for mDNS su
 # --------------------------------------------------- // VPN
 wireguard-tools                                       # WireGuard for setting up VPN and connecting to VPN providers
 systemd-resolvconf                                    # Necessary for resolving and connecting to remote VPN providers (Mullvad)
+tailscale                                             # Connecting to tailscale VPN with other personal devices
 
 # --------------------------------------------------- // Gaming
 # steam                                                  # gaming platform

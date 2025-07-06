@@ -9,7 +9,7 @@ io.gitlab.adhami3310.Impression                # Impression
 org.localsend.localsend_app                    # Mimic of airdrop
 
 # ------------------------------------------- // Browser
-# com.brave.Browser                              # Brave
+com.brave.Browser                              # Brave
 # org.torproject.torbrowser-launcher           # Tor
 
 # ------------------------------------------- // Social
@@ -30,6 +30,7 @@ org.kde.kalk                                   # Calculator app
 com.github.flxzt.rnote                         # Handwritten note app
 org.jabref.jabref                              # Reference manager
 com.jgraph.drawio.desktop                      # DrawIO
+com.github.phase1geo.minder                    # Mindmap
 
 # ------------------------------------------- // Image/Graphics
 org.inkscape.Inkscape                          # Inkscape
